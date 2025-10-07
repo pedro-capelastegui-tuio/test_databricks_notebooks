@@ -1,7 +1,7 @@
 # Databricks notebook source
 # MAGIC %md
 # MAGIC ## Test databricks environments for version controlled notebooks
-# MAGIC Test notebook update
+# MAGIC Test notebook update 2
 
 # COMMAND ----------
 
